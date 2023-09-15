@@ -1,3 +1,4 @@
+#https://pt.scribd.com/read/336522490/10-Inducoes-hipnoticas-para-profissionais# 
 import tkinter as tk
 from tkinter import ttk
 from playwright.sync_api import sync_playwright
